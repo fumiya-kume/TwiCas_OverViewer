@@ -1,0 +1,3 @@
+[submodule "TwicasDotNet"]
+	path = TwicasDotNet
+	url = https://github.com/fumiya-kume/TwicasDotNet.git
